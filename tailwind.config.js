@@ -6,7 +6,7 @@ const config = {
 		extend: {},
 		fontSize: {
 			heading1: '56px',
-			heading2: '24px',
+			heading2: '40px',
 			heading3: '20px',
 			headline1: '18px',
 			headline2: '16px',
