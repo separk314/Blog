@@ -76,6 +76,13 @@
 	</div>
 </div>
 
+<div class="mt-56 text-center">
+	<p class="text-headline1 animate-pulse">😈😈😈😈😈😈😈😈</p>
+	<p class="text-headline1 animate-spin">🙆‍♀️🙆🙆‍♂️</p>
+	<p class="text-headline1 animate-ping">🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️</p>
+	<p class="text-heading1 animate-bounce">🏀</p>
+</div>
+
 <style>
 	.slide {
 		flex: 0 0 auto;
