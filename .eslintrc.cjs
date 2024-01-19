@@ -2,6 +2,12 @@
 module.exports = {
 	root: true,
 	extends: ['eslint:recommended', 'plugin:svelte/recommended', 'prettier'],
+	overrides: [
+		{
+			files: ['*.svelte'],
+			parser: 'svelte-eslint-parser'
+		}
+	],
 	parserOptions: {
 		sourceType: 'module',
 		ecmaVersion: 2020,

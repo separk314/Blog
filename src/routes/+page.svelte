@@ -1,7 +1,4 @@
 <script>
-
 </script>
 
-<header class=" text-body2">
-    hi
-</header>
+<header class="text-heading1">안뇽!</header>
