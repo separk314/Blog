@@ -3,7 +3,7 @@
 </script>
 
 <header class="text-heading1 header m-5 flex flex-row justify-between">
-    <p>portfolio</p>
+    <a href="/">portfolio</a>
     <p>seomin</p>
 </header>
 
